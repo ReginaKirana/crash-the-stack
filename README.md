@@ -5,7 +5,7 @@
 
 ---
 
-✨ **Welcome to my mabar coding zone.**
+✨ **Welcome to my zone**
 
 This is where I:
 
