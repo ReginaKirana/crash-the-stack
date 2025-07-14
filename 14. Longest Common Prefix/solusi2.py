@@ -10,3 +10,4 @@ class Solution(object):
                 if not prefix:
                     return ""
         return prefix
+    
